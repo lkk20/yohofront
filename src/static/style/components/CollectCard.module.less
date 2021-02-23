@@ -1,0 +1,28 @@
+.card {
+	border-top: 1px solid gray;
+	height: 90px;
+	display: flex;
+	align-items: center;
+	.image {
+		flex: 1;
+		height: 100%;
+		img {
+			height: 100%;
+		}
+	}
+	.titleinfo {
+		flex: 3;
+		overflow-wrap: break-word;
+		text-overflow: ellipsis;
+	}
+	.cateprice {
+		flex: 1;
+		text-align: center;
+		span {
+			display: block;
+			&:nth-child(2) {
+				color: rgb(241, 48, 48);
+			}
+		}
+	}
+}

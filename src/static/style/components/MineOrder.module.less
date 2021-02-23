@@ -1,0 +1,40 @@
+.order {
+	margin-top: 10px;
+	background-color: white;
+}
+.top {
+	display: flex;
+	font-size: 18px;
+	padding: 0 10px;
+	justify-content: space-between;
+	align-items: center;
+	height: 70px;
+	border-bottom: gray 1px solid;
+	overflow: hidden;
+	.allorder {
+		display: flex;
+		align-items: center;
+	}
+}
+.ordercate {
+	margin-top: 20px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+
+	.cateitem {
+		overflow: hidden;
+		height: 80px;
+		&:nth-child(n + 4) {
+			border-top: 1px solid rgb(189, 187, 187);
+			padding-top: 7px;
+		}
+		img {
+			width: 20%;
+		}
+		span {
+			height: 40px;
+			display: block;
+			text-align: center;
+		}
+	}
+}
