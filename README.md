@@ -1,9 +1,9 @@
 # yohofront
 模仿yoho，react框架，antd移动端组件库，网络请求封装feitch,ajax
 
-![cart](L:\yoho\front\screenshot\cart.png)
+![cart](https://github.com/lkk20/yohofront/blob/main/screenshot/cart.png)
 
-![cart-l](L:\yoho\front\screenshot\cart-l.png)
+![cart-l](https://github.com/lkk20/yohofront/blob/main/screenshot/cart-l.png)
 
 ![cate](L:\yoho\front\screenshot\cate.png)
 
