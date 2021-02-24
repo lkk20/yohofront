@@ -5,22 +5,22 @@
 
 ![cart-l](https://github.com/lkk20/yohofront/blob/main/screenshot/cart-l.png)
 
-![cate](L:\yoho\front\screenshot\cate.png)
+![cate](https://github.com/lkk20/yohofront/blob/main/screenshot/cate.png)
 
-![collect](L:\yoho\front\screenshot\collect.png)
+![collect](https://github.com/lkk20/yohofront/blob/main/screenshot/collect.png)
 
-![detail](L:\yoho\front\screenshot\detail.png)
+![detail](https://github.com/lkk20/yohofront/blob/main/screenshot/detail.png)
 
-![home](L:\yoho\front\screenshot\home.png)
+![home](https://github.com/lkk20/yohofront/blob/main/screenshot/home.png)
 
-![list](L:\yoho\front\screenshot\list.png)
+![list](https://github.com/lkk20/yohofront/blob/main/screenshot/list.png)
 
-![login](L:\yoho\front\screenshot\login.png)
+![login](https://github.com/lkk20/yohofront/blob/main/screenshot/login.png)
 
-![mine](L:\yoho\front\screenshot\mine.png)
+![mine](https://github.com/lkk20/yohofront/blob/main/screenshot/mine.png)
 
-![mine-l](L:\yoho\front\screenshot\mine-l.png)
+![mine-l](https://github.com/lkk20/yohofront/blob/main/screenshot/mine-l.png)
 
-![order](L:\yoho\front\screenshot\order.png)
+![order](https://github.com/lkk20/yohofront/blob/main/screenshot/order.png)
 
-![view](L:\yoho\front\screenshot\view.png)
+![view](https://github.com/lkk20/yohofront/blob/main/screenshot/view.png)
